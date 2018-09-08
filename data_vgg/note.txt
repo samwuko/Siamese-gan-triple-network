@@ -1,0 +1,1 @@
+There are four VGG feature files to be generated.
